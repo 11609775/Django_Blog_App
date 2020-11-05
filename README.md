@@ -1,1 +1,3 @@
 # django_blog_app
+
+Django is very popular framework that gives us a lot of functionality right out of the box and make it very enjoyable to work with the web applications. So in this application that I have built here and we can see that it's a blog style of an application where different user can write different post, this can be like blog post or it can be twitter update and facebook updaate or any news feed. Now we have an authentication system so I can LogIn, log Out and as if I go to register then new user can create a new account, if you already have an account that you can login. We can see at tha login page that we have forget password link now that alllow user to reset password by getting an email to their register gmail account.
